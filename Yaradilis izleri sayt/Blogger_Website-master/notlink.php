@@ -1,0 +1,1 @@
+<?php !defined("security") ? die("Not Found") : null; ?>

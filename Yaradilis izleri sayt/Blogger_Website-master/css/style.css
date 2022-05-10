@@ -1,0 +1,12 @@
+
+   a{
+      text-decoration: none;
+   }
+
+.header-navbar, .category-list-header, .hit-header{
+   background-color: #21081a;
+}
+
+body{
+   background-color: #581845;
+}
